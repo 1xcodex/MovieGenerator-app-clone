@@ -1,6 +1,6 @@
 // import { useState } from 'react'
 import "./App.css";
-import Home from "../../../MovieGenerator-app-clone/movie-clone-app/src/Pages/Home/Home";
+import Home from "./Pages/Home/Home";
 
 function App() {
   // const [count, setCount] = useState(0)
