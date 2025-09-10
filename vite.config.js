@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react'
 //   plugins: [react()],
 // })
 
-export default defineCnofig({
-  base: '/{MovieGenerator-app-clone}',
+export default defineConfig({
+  base: "/{MovieGenerator-app-clone}",
   plugins: [react()],
-})
+});
