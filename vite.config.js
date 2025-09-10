@@ -6,7 +6,8 @@ import react from '@vitejs/plugin-react'
 //   plugins: [react()],
 // })
 
+
 export default defineConfig({
-  base: "/{MovieGenerator-app-clone}",
   plugins: [react()],
-});
+  base: '/MovieGenerator-app-clone/',  // 👈 repo name goes here
+})
